@@ -1,4 +1,4 @@
-# practikum2
+# Практика 2
 1. Создание папки (с указанием имени);
 ![image](https://user-images.githubusercontent.com/78033966/194761745-bdf35e17-0ea3-4ad9-b557-cece0f12f205.png)
  
